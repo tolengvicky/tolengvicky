@@ -14,7 +14,7 @@
   <img align="center" alt="Vicky-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vicky-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vicky-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Vicky-Gif" src="https://assets.pinterest.com/ext/embed.html?id=537124693049902365" height="336" width="236" frameborder="0" scrolling="no">
+  <img align="right" alt="Vicky-Python" height="200" width="500" src="https://i.pinimg.com/originals/35/0b/f8/350bf84a29f9d5762fa1603173d1b8d3.gif">
 </div>
 
   ##
