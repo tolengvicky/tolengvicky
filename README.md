@@ -1,8 +1,7 @@
-                                                                        ### Olá, eu sou a Victória 👋
+                                                                        ### OLÁ, EU SOU A VICTORIA 👋
 
 - 🔭 I’m currently working on Front-End
 - 🌱 I’m currently learning HTML, CSS e JavaScript
-- 😄 Pronouns: ela/dela
 -->
 <div align="center">
   <a href="https://github.com/tolengvicky">
