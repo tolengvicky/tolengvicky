@@ -1,9 +1,9 @@
  
  
  <h1 align="center"> Hello! how are you?</h1>
-<h2 align="center">Me chamo Victoria, muito prazer. Sou uma desenvolvedora Full Stack</h2>
-<p>Estudante de Design de Mídias Gigitais.  Sou apaixonada por tech e por quebrar a cabeça resolvendo bugs.
-Bom, se chegou até aqui, fique a vontade para ver meus projetinhos! Ficarei muito feliz se der um follow também :)</p>
+<h2 align="center">Me chamo Victoria, muito prazer. Sou uma desenvolvedora Full Stack!</h2>
+<p>Estudante de Design de Mídias Gigitais.  Sou apaixonada por tech e por resolver quebra cabeças.
+Bom, se chegou até aqui, fique a vontade para ver meus projetos! Ficarei muito feliz se der um follow também :)</p>
 
 -->
 <div>
