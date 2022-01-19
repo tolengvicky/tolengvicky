@@ -1,14 +1,19 @@
-                                              ### OLÁ, EU SOU A VICTORIA 👋
+ 
+ 
+ <h1 align="center"> Hello! how are you?</h1>
+<h2 align="center">Me chamo Victoria, muito prazer. Sou uma desenvolvedora Full Stack</h2>
+<p>Estudante de Design de Mídias Gigitais.  Sou apaixonada por tech e por quebrar a cabeça resolvendo bugs.
+Bom, se chegou até aqui, fique a vontade para ver meus projetinhos! Ficarei muito feliz se der um follow também :)</p>
 
-- 🔭 I’m currently working on Front-End
-- 🌱 I’m currently learning HTML, CSS e JavaScript
 -->
-<div align="center">
+<div>
   <a href="https://github.com/tolengvicky">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tolengvicky&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolengvicky&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
 <div style="display: inline_block"><br>
+  <h3 align="left">Linguagens e ferramentas</h3>
   <img align="center" alt="Vicky-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vicky-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vicky-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
