@@ -1,13 +1,11 @@
 
 
- <div <style>
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
-</style>>
+ 
 <h1 align="center"> Hello! how are you?</h1>
 <h2 align="center">Me chamo Victoria, muito prazer. Sou uma desenvolvedora Full Stack!</h2>
 <p>Estudante de Design de Mídias Digitais.  Sou apaixonada por tech e por resolver quebra cabeças.</p>
 <p>Bom, se chegou até aqui, fique a vontade para ver meus projetos! Ficarei muito feliz se der um follow também :)</p>
- </div>
+ 
 
 -->
 <div>
@@ -16,7 +14,7 @@
   <img height="180em" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolengvicky&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-<div style="display: inline_block"><br>
+<div>
   <h3 align="center">Linguagens e ferramentas</h3>
   <img align="center" alt="Vicky-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vicky-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
