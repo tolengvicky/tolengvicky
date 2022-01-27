@@ -23,7 +23,7 @@
   <img align="center" alt="Vicky-Figma" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Vicky-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg"/>
   <img align="center" alt="Vicky-Photoshop" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
-  <img"right" alt="Ane-pic" height="100" style="border-radius:45px;" src="https://pin.it/vJdfw0x">
+  <img"right" alt="Ane-pic" height="100" style="border-radius:45px;" src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fanime%2Fcomments%2F6qk3g4%2Fkimi_no_na_wa_your_name_gifs%2F&psig=AOvVaw3GDs6ktwDYlYOModf63BEo&ust=1643342666126000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDOztOG0fUCFQAAAAAdAAAAABAD">
 </div>
 
   ##
