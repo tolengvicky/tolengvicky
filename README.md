@@ -28,8 +28,7 @@
   ##
  
 <div> 
-   <a href="https://instagram.com/victoria_tolardo" target="_blank"><img src="![md_5af2d4cabfdf2-removebg-preview](https://user-images.githubusercontent.com/79332374/151287587-6fd521ae-2854-49e5-8384-1c017e8ef057.png)
- target="_blank"></a> 
+   <a href="https://instagram.com/victoria_tolardo" target="_blank"><img src=</a> 
   <a href = "vtolardo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victoria-engelmeier-tolardo-04b37620b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
