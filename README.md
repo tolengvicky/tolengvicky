@@ -11,6 +11,7 @@
 <p align="center">Bom, se chegou até aqui, fique a vontade para ver meus projetos!
 <br>Ficarei muito feliz se der um follow também :) -->🔥</p>
 <p></p>
+<p></p>
 </div>
 
 
@@ -27,6 +28,7 @@
   <img align="center" alt="Vicky-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vicky-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vicky-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Vicky-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
  <img border="0 0 200 0" width="200" align="right" src="https://github.com/tolengvicky/tolengvicky/blob/main/undefined%20-%20Imgur.gif"alt="Gif do anime Your Name"
   <br>
   <h3 align="left">Ferramentas</h3>
