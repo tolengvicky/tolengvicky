@@ -15,7 +15,7 @@
 </div>
 
 <div align="center"> 
-  <img src="https://media.tenor.com/tqoX4Da8YmwAAAAC/doggo-dog.gif" alt="Gif de um cachorrinho de gravata mexendo no computador">
+  <img src="[https://media.tenor.com/tqoX4Da8YmwAAAAC/doggo-dog.gif](https://github.com/tolengvicky/tolengvicky/blob/main/undefined%20-%20Imgur.gif)" alt="Gif do anime Your Name">
 </div>
   
 <div>
