@@ -35,5 +35,5 @@
   <a href="https://steamcommunity.com/profiles/76561199037143816/)](https://steamcommunity.com/profiles/76561199037143816/" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-thebadge&logo=steam&logoColor=white)"target="_blank"></a> 
  
  
- 
+ <https://web.dio.me/project/recriando-o-jogo-da-cobrinha-com-javascript/learning/bfcd37b9-4ccf-40fb-b0ea-c2d865414a19?back=/track/html-web-developer&tab=undefined&moduleId=undefined> 
 </div>
