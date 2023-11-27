@@ -7,15 +7,15 @@
 <p>✨ Sou apaixonada por tech e por resolver quebra cabeças.</p>
 <p align="center">Bom, se chegou até aqui, fique a vontade para ver meus projetos! Ficarei muito feliz se der um follow também :) -->🔥</p>
 <p></p>
- 
+
+ <div align="left"> 
+  <img src="https://github.com/tolengvicky/tolengvicky/blob/main/undefined%20-%20Imgur.gif"alt="Gif do anime Your Name">
+</div>
+
 <div align="center">
   <a href="https://github.com/tolengvicky">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tolengvicky&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolengvicky&layout=compact&langs_count=7&theme=gotham"/>
-</div>
-
-<div align="center"> 
-  <img src="https://github.com/tolengvicky/tolengvicky/blob/main/undefined%20-%20Imgur.gif"alt="Gif do anime Your Name">
 </div>
   
 <div>
