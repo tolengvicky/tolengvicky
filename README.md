@@ -15,7 +15,7 @@
 </div>
 
 <div align="center"> 
-  <img src="[https://media.tenor.com/tqoX4Da8YmwAAAAC/doggo-dog.gif](https://github.com/tolengvicky/tolengvicky/blob/main/undefined%20-%20Imgur.gif)"](http://imgur.com/a/HAHFo) alt="Gif do anime Your Name">
+  <img src="https://media.tenor.com/tqoX4Da8YmwAAAAC/doggo-dog.gif](https://github.com/tolengvicky/tolengvicky/blob/main/undefined%20-%20Imgur.gif)"alt="Gif do anime Your Name">
 </div>
   
 <div>
