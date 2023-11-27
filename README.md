@@ -3,7 +3,7 @@
 <h1 align="center"> Hey! How are you?</h1>
 <h2 align="center">Me chamo Victoria, muito prazer.</h2>
 
- <div align="right" > 
+ <div float="left" > 
   <img width="200px" src="https://github.com/tolengvicky/tolengvicky/blob/main/undefined%20-%20Imgur.gif"alt="Gif do anime Your Name">
  </div>
 
