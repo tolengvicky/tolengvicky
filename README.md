@@ -8,7 +8,7 @@
 <p align="center">Bom, se chegou até aqui, fique a vontade para ver meus projetos! Ficarei muito feliz se der um follow também :) -->🔥</p>
 <p></p>
 
- <div align="left"> 
+ <div align="left" high=50px large=50px> 
   <img src="https://github.com/tolengvicky/tolengvicky/blob/main/undefined%20-%20Imgur.gif"alt="Gif do anime Your Name">
 </div>
 
