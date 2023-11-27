@@ -9,7 +9,7 @@
 <p></p>
 
  <div align="right" > 
-  <img width="50px" height="50px" src="https://github.com/tolengvicky/tolengvicky/blob/main/undefined%20-%20Imgur.gif"alt="Gif do anime Your Name">
+  <img width="200px" height="200px" src="https://github.com/tolengvicky/tolengvicky/blob/main/undefined%20-%20Imgur.gif"alt="Gif do anime Your Name">
 </div>
 
 <div align="center">
