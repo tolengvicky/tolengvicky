@@ -5,7 +5,7 @@
 
 
 <div>
-<p align="left">🖋️ Estudante de Design de Mídias Digitais e Engenharia de Software.</p>
+<p align="left">🖋️ Estudante de Design de Mídias Digitais, Analytics e  Engenharia de Software.</p>
 <p align="left">✨ Sou apaixonada por tech e por resolver quebra cabeças.</p>
   
 <p align="center">Bom, se chegou até aqui, fique a vontade para ver meus projetos!
