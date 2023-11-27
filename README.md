@@ -6,10 +6,10 @@
 
 <div>
 <p align="left">🖋️ Estudante de Design de Mídias Digitais e Engenharia de Software.</p>
-   <div align="right" > 
-  <img width="100" src="https://github.com/tolengvicky/tolengvicky/blob/main/undefined%20-%20Imgur.gif"alt="Gif do anime Your Name">
- </div>
 <p align="left">✨ Sou apaixonada por tech e por resolver quebra cabeças.</p>
+     <div align="right" > 
+        <img width="100" src="https://github.com/tolengvicky/tolengvicky/blob/main/undefined%20-%20Imgur.gif"alt="Gif do anime Your Name">
+     </div>
 <p align="center">Bom, se chegou até aqui, fique a vontade para ver meus projetos!
 <br>Ficarei muito feliz se der um follow também :) -->🔥</p>
 <p></p>
