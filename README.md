@@ -5,7 +5,7 @@
 
  <div align="right" > 
   <img width="200px" src="https://github.com/tolengvicky/tolengvicky/blob/main/undefined%20-%20Imgur.gif"alt="Gif do anime Your Name">
-</div>
+ </div>
 
 
 <p align="left">🖋️ Estudante de Design de Mídias Digitais e Engenharia de Software.</p>
