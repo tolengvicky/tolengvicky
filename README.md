@@ -10,7 +10,8 @@
 </div>
  🖋️ Estudante de Design de Mídias Digitais e Engenharia de Software.</p>  
 <p>✨ Sou apaixonada por tech e por resolver quebra cabeças.</p>
-<p align="center">Bom, se chegou até aqui, fique a vontade para ver meus projetos! Ficarei muito feliz se der um follow também :) -->🔥</p>
+<p align="center">Bom, se chegou até aqui, fique a vontade para ver meus projetos!
+<br>Ficarei muito feliz se der um follow também :) -->🔥</p>
 <p></p>
 
 
