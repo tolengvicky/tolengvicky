@@ -7,8 +7,8 @@
   <img width="200px" src="https://github.com/tolengvicky/tolengvicky/blob/main/undefined%20-%20Imgur.gif"alt="Gif do anime Your Name">
 </div>
 
-<p>
- 🖋️ Estudante de Design de Mídias Digitais e Engenharia de Software.</p>  
+
+ 🖋️ Estudante de Design de Mídias Digitais e Engenharia de Software.
 <p>✨ Sou apaixonada por tech e por resolver quebra cabeças.</p>
 <p align="center">Bom, se chegou até aqui, fique a vontade para ver meus projetos!
 <br>Ficarei muito feliz se der um follow também :) -->🔥</p>
