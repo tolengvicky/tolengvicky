@@ -32,7 +32,7 @@
   <img align="center" alt="Vicky-Photoshop" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
 </div>
 
-  //##Contato//
+
  
 <div> 
   <h3 align="left">Contato</h3>
