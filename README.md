@@ -4,9 +4,9 @@
 <h2 align="center">Me chamo Victoria, muito prazer.</h2>
 
 
-<div dir="auto">
+<div>
 <p align="left">🖋️ Estudante de Design de Mídias Digitais e Engenharia de Software.</p>
-   <div align="right" > 
+   <div align="auto" > 
   <img src="https://github.com/tolengvicky/tolengvicky/blob/main/undefined%20-%20Imgur.gif"alt="Gif do anime Your Name">
  </div>
 <p align="left">✨ Sou apaixonada por tech e por resolver quebra cabeças.</p>
