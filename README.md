@@ -40,6 +40,7 @@
   <img align="center" alt="Vicky-VSCode" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Vicky-Tableau" height="30" width="40"  src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
   <img align="center" alt="Vicky-PowerBI" height="30" width="40"  src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" />
+  <img align="center" alt="Vicky-PyCharm" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
   
 </div>
 
