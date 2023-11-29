@@ -23,7 +23,7 @@
 </div>
   
 <div>
-  <h3 align="left">Linguagens</h3>
+  <h3 align="left">💻 Linguagens</h3>
   <img align="center" alt="Vicky-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vicky-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vicky-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -32,7 +32,7 @@
   <img align="center" alt="Vicky-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
  <img border="0 0 200 0" width="200" align="right" src="https://github.com/tolengvicky/tolengvicky/blob/main/undefined%20-%20Imgur.gif"alt="Gif do anime Your Name"
   <br>
-  <h3 align="left">Ferramentas</h3>
+  <h3 align="left">⚒️ Ferramentas</h3>
   <img align="center" alt="Vicky-Figma" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Vicky-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg"/>
   <img align="center" alt="Vicky-Photoshop" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
